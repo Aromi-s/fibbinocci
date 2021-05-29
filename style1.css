@@ -1,0 +1,23 @@
+body{ 
+background-image: url("../images1/img.jpeg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+  font-family: 'verdana';
+  font-size: 20px;
+  padding-top: 60px;
+  width: 100%;
+  width: 100vw;
+  height: 550px;
+  line-height: 1em;
+  font-weight: normal;
+  color: rgb(114, 201, 26);
+}
+input{
+  display: block;
+}
+textarea{
+    display: block;
+}
+
+
