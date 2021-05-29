@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Job Details</title>
+	<link rel="stylesheet" href="{% static 'css/style1.css'%}">
+</head>
+	<style>
+table, th, td {
+  border: 3px solid black;
+}
+</style>
+<body>
+	<div class="container">
+	<div class="row">
+   	    <div class="col-md-4 text-center marb-10">
+   	    <div class="about lobster-font-family">
+   	    <h1 style="text-align: center; colo2: Black" class="header-h"><u> Job Details View</u></h1>
+   	   </div>
